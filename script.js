@@ -79,7 +79,7 @@ function addMessageToChat(sender, message) {
 async function getAIResponse(userInput) {
 
     // API key yang dibutuhkan untuk mengakses layanan AI (harus diisi)
-    const apikey = ""; // Masukkan API key Anda di sini
+    const apikey = "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"; // Masukkan API key Anda di sini
 
     // Melakukan permintaan POST ke API Groq untuk mendapatkan respons AI
     const response = await fetch('https://api.groq.com/openai/v1/chat/completions', {
