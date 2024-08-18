@@ -43,7 +43,7 @@ body {
 .user-input {
     display: flex;
     align-items: cover;
-    padding: 120px;
+    padding: 20px;
     background-color: #fff;
 }
 
