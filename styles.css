@@ -42,7 +42,7 @@ body {
 
 .user-input {
     display: flex;
-    align-items: center;
+    align-items: cover;
     padding: 20px;
     background-color: #fff;
 }
