@@ -45,6 +45,8 @@ body {
     align-items: cover;
     padding: 20px;
     background-color: #fff;
+    background-size: cover; 
+    background-position: center;
 }
 
 #message-input {
